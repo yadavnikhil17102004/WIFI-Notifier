@@ -13,3 +13,64 @@
 2025-03-02 23:53:20,073 - INFO - New device detected: Name: Unknown Device | MAC: 01:00:5e:00:00:02 | IP: 224.0.0.2 | Vendor: Unknown
 2025-03-02 23:54:44,339 - INFO - Monitoring stopped by user
 2025-03-02 23:54:44,341 - INFO - Network monitoring ended
+2025-03-02 23:58:08,707 - INFO - Starting network monitoring...
+2025-03-02 23:58:13,746 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:18,705 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:23,658 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:23,672 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:23,684 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:23,696 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:28,648 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:33,614 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:33,618 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:33,621 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:38,583 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:43,547 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:43,558 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:43,562 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:48,517 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:53,466 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:53,469 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:53,473 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:58:58,433 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:59:03,403 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:59:03,406 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:59:03,409 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:59:03,413 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:59:08,381 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:59:13,329 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-02 23:59:48,354 - INFO - Monitoring stopped by user
+2025-03-02 23:59:48,355 - INFO - Network monitoring ended
+2025-03-03 00:02:29,781 - ERROR - No active WiFi interface found!
+2025-03-03 00:03:29,743 - INFO - Using WiFi interface: Wi-Fi
+2025-03-03 00:03:29,744 - INFO - Starting network monitoring...
+2025-03-03 00:03:34,885 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-03 00:03:39,853 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-03 00:03:44,793 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-03 00:03:44,797 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-03 00:03:44,800 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-03 00:03:44,802 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-03 00:03:49,770 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-03 00:03:54,733 - ERROR - Error detecting OS: [WinError 2] The system cannot find the file specified
+2025-03-03 00:04:14,724 - INFO - Monitoring stopped by user
+2025-03-03 00:04:14,725 - INFO - Network monitoring ended
+2025-03-03 00:06:09,661 - INFO - Using WiFi interface: Wi-Fi
+2025-03-03 00:06:09,662 - INFO - Starting network monitoring...
+2025-03-03 00:06:19,768 - INFO - Monitoring stopped by user
+2025-03-03 00:06:19,770 - INFO - Network monitoring ended
+2025-03-03 00:07:46,218 - INFO - Using WiFi interface: Wireless LAN adapter Wi-Fi
+2025-03-03 00:07:46,218 - INFO - Starting network monitoring...
+2025-03-03 00:08:13,987 - INFO - Monitoring stopped by user
+2025-03-03 00:08:13,988 - INFO - Network monitoring ended
+2025-03-03 00:09:17,274 - INFO - Using WiFi interface: Wireless LAN adapter Wi-Fi
+2025-03-03 00:09:17,274 - INFO - Starting network monitoring...
+2025-03-03 00:09:37,322 - INFO - Monitoring stopped by user
+2025-03-03 00:09:37,324 - INFO - Network monitoring ended
+2025-03-03 00:11:43,194 - INFO - Using WiFi interface: Wireless LAN adapter Wi-Fi
+2025-03-03 00:11:43,194 - INFO - Starting network monitoring...
+2025-03-03 00:11:48,352 - INFO - Monitoring stopped by user
+2025-03-03 00:11:48,353 - INFO - Network monitoring ended
+2025-03-03 00:16:21,714 - INFO - Using WiFi interface: Wireless LAN adapter Wi-Fi
+2025-03-03 00:16:21,715 - INFO - Starting network monitoring...
+2025-03-03 00:17:50,596 - INFO - Monitoring stopped by user
+2025-03-03 00:17:50,597 - INFO - Network monitoring ended
