@@ -1,0 +1,15 @@
+2025-03-02 23:51:35,402 - INFO - Starting network monitoring...
+2025-03-02 23:51:35,403 - ERROR - Error scanning network: [WinError 2] The system cannot find the file specified
+2025-03-02 23:51:40,331 - INFO - Monitoring stopped by user
+2025-03-02 23:51:40,332 - INFO - Network monitoring ended
+2025-03-02 23:53:19,960 - INFO - Starting network monitoring...
+2025-03-02 23:53:20,038 - INFO - New device detected: Name: Unknown Device | MAC: 01:00:5e:7f:ff:fa | IP: 239.255.255.250 | Vendor: Unknown
+2025-03-02 23:53:20,068 - INFO - New device detected: Name: Unknown Device | MAC: 50:91:e3:f8:52:b8 | IP: 192.168.0.1 | Vendor: Unknown
+2025-03-02 23:53:20,070 - INFO - New device detected: Name: Unknown Device | MAC: 01:00:5e:00:00:fb | IP: 224.0.0.251 | Vendor: Unknown
+2025-03-02 23:53:20,070 - INFO - New device detected: Name: Unknown Device | MAC: 01:00:5e:00:00:16 | IP: 224.0.0.22 | Vendor: Unknown
+2025-03-02 23:53:20,071 - INFO - New device detected: Name: Unknown Device | MAC: 40:3f:8c:8d:84:62 | IP: 192.168.0.110 | Vendor: Unknown
+2025-03-02 23:53:20,072 - INFO - New device detected: Name: Unknown Device | MAC: 4c:c9:5e:84:89:1a | IP: 192.168.0.208 | Vendor: Unknown
+2025-03-02 23:53:20,072 - INFO - New device detected: Name: Unknown Device | MAC: 01:00:5e:00:00:fc | IP: 224.0.0.252 | Vendor: Unknown
+2025-03-02 23:53:20,073 - INFO - New device detected: Name: Unknown Device | MAC: 01:00:5e:00:00:02 | IP: 224.0.0.2 | Vendor: Unknown
+2025-03-02 23:54:44,339 - INFO - Monitoring stopped by user
+2025-03-02 23:54:44,341 - INFO - Network monitoring ended
